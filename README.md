@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi humans!
+
+Adrian here, just starting out in the world of programming and website development.
